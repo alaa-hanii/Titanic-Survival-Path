@@ -22,7 +22,9 @@ The project will explore and implement the following algorithms:
 
 - Breadth-First Search (BFS)
 - Depth-First Search (DFS)
+- Depth-Limited Search (DLS)
 - Uniform Cost Search (UCS)
+- Greedy
 - A* Search
 
 ##  Simulation Environment
